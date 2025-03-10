@@ -1,0 +1,27 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #ffffff; /* Warna latar belakang */
+}
+
+.container {
+    padding: 20px; /* Padding di sekitar konten */
+}
+
+.hero {
+    text-align: center;
+    margin: 50px 0; /* Margin atas dan bawah */
+}
+
+.hero h1 {
+    font-size: 3rem; /* Ukuran font untuk judul */
+    margin-bottom: 20px; /* Margin di bawah judul */
+}
+
+.hero img {
+    max-width: 100%; /* Mengatur lebar gambar */
+    height: auto; /* Mengatur tinggi gambar secara otomatis */
+}
+
+.section {
+    margin: 40px 0; /* Margin di atas dan bawah pada section */
+}
